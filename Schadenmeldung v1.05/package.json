@@ -1,0 +1,8 @@
+{
+  "name": "rn-schaeden",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemailer": "^6.9.8",
+    "multiparty": "^4.2.2"
+  }
+}
