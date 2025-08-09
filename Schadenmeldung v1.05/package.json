@@ -1,0 +1,10 @@
+{
+  "name": "rn-schadenmeldung",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "multiparty": "^4.2.3",
+    "nodemailer": "^6.9.13"
+  }
+}
